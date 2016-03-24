@@ -1,0 +1,13 @@
+Final Project on Spatial Data Histogram done by
+
+1. Raviteja Yerrapati
+2. Sneha Rajan
+3. Subramanian Viswanathan
+
+FILES:
+spatialDataHistogram.c
+Makefile
+Scripts.sql
+
+OUTPUT:
+Sample output file attached. Written to a file SDH.log inside /tmp/
